@@ -9,4 +9,5 @@ function countDown() {
     alert('Вы победили в конкурсе!');
   }
 }
+
 const countDownTimer = setInterval(countDown, 1000);
